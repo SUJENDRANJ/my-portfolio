@@ -49,7 +49,7 @@ const Header = () => {
             </a>
           </li>
           <li className="menuItem">
-            <a href="#services" onClick={() => setOpen(!open)}>
+            <a href="#service" onClick={() => setOpen(!open)}>
               Services
             </a>
           </li>

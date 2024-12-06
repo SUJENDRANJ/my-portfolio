@@ -19,17 +19,17 @@ const LandingSection = () => {
       <div className="flex flex-col mt-24 md:mt-12 relative items-center">
         <img
           src="/suje.png"
-          alt="Sujendran"
+          alt="sujendran profile"
           width="320px"
-          className="object-contain drop-shadow-md z-10 w-[250px] sm:w-[320px]"
+          className="object-contain drop-shadow-md z-10"
         />
-        <div className="w-60 h-60 sm:w-96 sm:h-96 rounded-3xl rotate-45 top-6 bg-gradient-to-t from-brand to-indigo-500 absolute"></div>
+        <div className="w-72 h-72 sm:w-96 sm:h-96 rounded-3xl rotate-45 top-6 bg-gradient-to-t from-brand to-indigo-500 absolute"></div>
         <div className="absolute flex flex-col gap-2 -bottom-16 z-20">
-          <h1 className="bg-blue-500 px-4 pt-1 text-center pb-4 xs:pb-5 w-screen xs:w-full text-3xl  xs:text-4xl sm:text-5xl font-bold text-white">
+          <h1 className="bg-blue-500 px-4 pt-1 text-center pb-4 xs:pb-5 w-screen xs:w-full text-5xl xs:text-5xl sm:text-5xl font-bold text-white">
             Sujendran J
           </h1>
-          <span className="text-center uppercase text-black text-2xl sm:text-3xl">
-            Full Stack Developer
+          <span className="text-center uppercase text-black text-3xl">
+            Frontend Developer
           </span>
         </div>
       </div>

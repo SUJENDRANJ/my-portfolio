@@ -123,7 +123,7 @@ const Contact = () => {
       id="contact"
       className="min-h-screen w-full md:w-8/12 px-5 pt-10 pb-16 md:pb-10"
     >
-      <div className="text-center mx-auto">
+      <div className="text-center mx-auto mt-[60px] lg:mt-0">
         <h1 className="text-6xl md:text-7xl font-bold mb-5 text-gray-400">
           Contact
         </h1>

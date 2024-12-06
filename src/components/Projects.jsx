@@ -21,7 +21,7 @@ const Projects = () => {
             d="M0,192L120,213.3C240,235,480,277,720,282.7C960,288,1200,256,1320,240L1440,224L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
           ></path>
         </svg>
-        <div className="p-10 w-full h-full flex flex-col items-center">
+        <div className="p-10 w-full h-full flex flex-col items-center mt-14 md:mt-0">
           <Zoom>
             <h1 className="text-4xl md:text-5xl text-white font-mono">
               My Projects
